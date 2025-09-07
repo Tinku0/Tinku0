@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Backend 
 - 💞️ I’m looking to collaborate on various public repositories
-- 📫 How to reach me varunchowdary1798@gmail.com
+- 📫 How to reach me varun.doddapaneni0@gmail.com
 
 <!---
 Tinku0/Tinku0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
